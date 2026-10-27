@@ -2,7 +2,7 @@
 
 A practice repository from the Boot.dev Git course.
 
-WebFlyx is a fictional movie collection used to learn how Git works through hands-on exercises.
+WebFlyx is a fictional movie collection used to learn Git through hands-on exercises.
 
 ## What's inside
 
@@ -17,7 +17,5 @@ WebFlyx is a fictional movie collection used to learn how Git works through hand
 - Resolving merge conflicts.
 - Working with remote repositories.
 - Using Git from the command line.
-
-## About
 
 This isn't a software application. It's a collection of files used to practice Git and version control.
